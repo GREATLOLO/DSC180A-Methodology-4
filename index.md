@@ -1,8 +1,3 @@
----
-layout: default
-title: DSC 180A - Methodology 4 Reflection
----
-
 # Methodology Assignment 4: Project Brainstorming
 
 
